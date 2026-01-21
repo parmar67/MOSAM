@@ -1,2 +1,0 @@
-# MOSAM
-HELO
